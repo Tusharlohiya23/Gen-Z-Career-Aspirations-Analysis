@@ -48,3 +48,11 @@ This project was completed as part of a Data Analytics internship project with K
 > ## 📊 Executive Dashboard
 
 ![Gen-Z Career Aspirations Dashboard](Gen-Z-Career-Aspirations-Dashboard.png)
+
+## 💡 Key Insights
+
+- Parents were the most influential factor reported in career decisions.
+- Fully remote work with flexibility to travel was a highly preferred working arrangement.
+- The most common starting salary expectation was ₹31K–₹40K.
+- Company mission alignment was an important consideration for respondents.
+- Gen-Z showed diverse career interests across technology, business, creative, and other fields.
