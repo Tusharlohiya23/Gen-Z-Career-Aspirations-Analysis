@@ -44,3 +44,7 @@ The analysis was performed using Microsoft Excel to identify patterns, trends, a
 This project was completed as part of a Data Analytics internship project with KultureHire.
 
 > The original dataset and raw respondent-level data are not included in this repository due to confidentiality requirements.
+>
+> ## 📊 Executive Dashboard
+
+![Gen-Z Career Aspirations Dashboard](Gen-Z-Career-Aspirations-Dashboard.png)
